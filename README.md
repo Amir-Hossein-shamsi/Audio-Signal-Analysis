@@ -6,7 +6,7 @@ A Python script to load, analyze, and visualize WAV audio files by plotting thei
 
 Clone repo
 
-git clone https://github.com/your-username/audio-analysis.git
+git clone [https://github.com/your-username/audio-analysis.git](https://github.com/Amir-Hossein-shamsi/Audio-Signal-Analysis)
 cd audio-analysis
 
 Install dependencies
